@@ -37,7 +37,7 @@ const Projects: React.FC<{}> = () => {
             </div>
           </Link>
           <Link
-            href=""
+            href="/"
             rel="noopener noreferrer"
             target="_blank"
             className="z-[1] rounded-lg"

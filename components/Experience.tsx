@@ -27,17 +27,18 @@ const Experience: React.FC<{}> = () => {
           <br />
           My expertise in PHP and Python has been instrumental in crafting
           dynamic web solutions that drive efficiency and user satisfaction.
-          Leveraging PHP, CSS, and HTML, I've developed responsive reports that
-          deliver actionable insights with clarity and precision. Additionally,
-          I've engineered a custom web application utilizing PHP and SQL,
-          facilitating seamless storage and retrieval of student results.
+          Leveraging PHP, CSS, and HTML, I&apos;ve developed responsive reports
+          that deliver actionable insights with clarity and precision.
+          Additionally, I&apos;ve engineered a custom web application utilizing
+          PHP and SQL, facilitating seamless storage and retrieval of student
+          results.
           <br />
           <br />
-          Continuously innovating, I've responded to educators' needs by
-          implementing tailored features to optimize their workflow and enhance
-          productivity. My commitment to staying updated with the latest web
-          development trends ensures that I deliver solutions that are not only
-          functional but also future-proof.
+          Continuously innovating, I&apos;ve responded to educators&apos; needs
+          by implementing tailored features to optimize their workflow and
+          enhance productivity. My commitment to staying updated with the latest
+          web development trends ensures that I deliver solutions that are not
+          only functional but also future-proof.
         </p>
         <div className="flex-col flex sm:flex-row ">
           <div className="bg-transparent  mt-5 mr-2 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
