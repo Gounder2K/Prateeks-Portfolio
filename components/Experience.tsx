@@ -12,39 +12,45 @@ const Experience: React.FC<{}> = () => {
       <div className=" container mx-auto 2xl ">
         <div className="flex  flex-row justify-between pt-5">
           <p className="text-gray-300 ">
-            <span className="font-semibold">WebHR /</span> Software Engineer
+            <span className="font-semibold">eTAP /</span> Software Engineer
           </p>
-          <p className="text-gray-300">MAY 2022 - PRESENT, HYDERABAD</p>
+          <p className="text-gray-300">AUG 2022 - PRESENT, AUCKLAND</p>
         </div>
         <p className="text-gray-300 pt-5">
-          Currently, I am working on WebHR Mobile Application, WebHR is a Cloud
-          based Social HR Software for SMEs by Verge Systems Inc. WebHR is
-          currently used in over 160 countries world wide by thousands of
-          organizations to manage HR, As a React.js developer with 1.5 year of
-          experience, I have a strong foundation in creating dynamic and
-          responsive mobile and web applications.
+          Currently, I am employed at eTAP, a cloud-based solution for schools
+          to manage student reports. eTAP is currently utilized in over 100
+          schools nationwide by thousands of teachers for report management.
+          With 1.5 years of experience as a PHP developer, I have built a strong
+          foundation in creating dynamic and responsive mobile and web
+          applications.
           <br />
           <br />
-          My experience with React Native has allowed me to develop
-          cross-platform mobile applications that run seamlessly on both iOS and
-          Android platforms. Additionally, my proficiency in React.js has
-          equipped me with the skills to create fast, scalable, and dynamic web
-          pages with excellent user experiences. I have a deep understanding of
-          component-based architecture and state management, and I am
-          well-versed in the latest web development trends and technologies.
+          My expertise in PHP and Python has been instrumental in crafting
+          dynamic web solutions that drive efficiency and user satisfaction.
+          Leveraging PHP, CSS, and HTML, I've developed responsive reports that
+          deliver actionable insights with clarity and precision. Additionally,
+          I've engineered a custom web application utilizing PHP and SQL,
+          facilitating seamless storage and retrieval of student results.
+          <br />
+          <br />
+          Continuously innovating, I've responded to educators' needs by
+          implementing tailored features to optimize their workflow and enhance
+          productivity. My commitment to staying updated with the latest web
+          development trends ensures that I deliver solutions that are not only
+          functional but also future-proof.
         </p>
         <div className="flex-col flex sm:flex-row ">
           <div className="bg-transparent  mt-5 mr-2 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
-            React Native
+            PHP
           </div>
           <div className="bg-transparent  mt-5  mr-2 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
-            React
+            Python
           </div>
           <div className="bg-transparent  mt-5  mr-2 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
             JavaScript
           </div>
           <div className="bg-transparent  mt-5 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
-            Typescript
+            MySQL
           </div>
         </div>
       </div>
