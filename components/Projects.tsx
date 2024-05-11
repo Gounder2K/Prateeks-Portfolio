@@ -24,11 +24,11 @@ const Projects: React.FC<{}> = () => {
                 src="/FirstProject.png"
                 height={150}
                 width={150}
-                alt="WebHR Project"
+                alt="ETAP Project"
                 className="rounded-lg"
               />
               <div className="p-3">
-                <p className="text-white font-semibold text-xl">WebHR</p>
+                <p className="text-white font-semibold text-xl">ETAP</p>
                 <p className="text-gray-500 text-[10px]">
                   Designed a modern UI website comprising more than 15 screens,
                   along with the integration of a blog using PHP.
