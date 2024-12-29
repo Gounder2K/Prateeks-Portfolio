@@ -36,28 +36,8 @@ const Projects: React.FC<{}> = () => {
               </div>
             </div>
           </Link>
-          <Link
-            href="/"
-            rel="noopener noreferrer"
-            target="_blank"
-            className="z-[1] rounded-lg"
-          >
-            <div className="flex-row flex mb-5">
-              <Image
-                src="/SecondProject.png"
-                height={150}
-                width={150}
-                alt="HireSide"
-              />
-              <div className="p-3">
-                <p className="text-white font-semibold text-xl">Tic-Tac-Toe</p>
-                <p className="text-gray-500 text-[10px]">
-                  Developed a web application on JS that allows users to play a
-                  simple game of tic-tac-toe.
-                </p>
-              </div>
-            </div>
-          </Link>
+
+
         </div>
       </div>
     </section>
